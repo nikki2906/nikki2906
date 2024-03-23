@@ -25,7 +25,7 @@
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nikki2906&show_icons=true" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nikki2906&show_icons=true&theme=nightowl" />
 </details>
 <details>
   <summary><b>:zap: Languages and Frameworks</b></summary>
