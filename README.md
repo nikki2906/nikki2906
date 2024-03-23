@@ -11,6 +11,7 @@
 <p align="center">
   <a href="mailto:nhihuynh2906@gmail.com?subject=Nice%20To%20Meet%20You%20Raina"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nhihuynhb/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://nhihuynh.vercel.app/"><img src="https://img.shields.io/badge/portfolio-%23dc2743.svg?&style=for-the-badge&logo=href&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- GitHub Stats -->
