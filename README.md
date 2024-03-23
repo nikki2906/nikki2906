@@ -20,7 +20,7 @@
 
  <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki2906&theme=nightowl" alt="Gift's LangStat" width="430px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikki2906&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikki2906&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  height="170px" width="400px"/>
 
 **Expand to view**
 <details>
