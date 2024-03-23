@@ -36,7 +36,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-    <img src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SWIFT-FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/-REACT-4285F4?style=for-the-badge&logo=react&logoColor=white"/><br>
     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
