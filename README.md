@@ -6,7 +6,7 @@
 &nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating Spring 2026.\
 &nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Cambridge, MA.\
 &nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
-&nbsp;&nbsp;&nbsp;🌱: &nbsp;Love for education and innovation.\
+&nbsp;&nbsp;&nbsp;🌱 I am a <b>2024 Snap Software Engineering Intern</b>
 
 <p align="center">
   <a href="mailto:nhihuynh2906@gmail.com?subject=Nice%20To%20Meet%20You%20Raina"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
