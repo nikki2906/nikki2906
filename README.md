@@ -19,8 +19,8 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
  <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rainawan&theme=nightowl" alt="Gift's LangStat" width="430px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rainawan&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  width="400px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki2906&theme=nightowl" alt="Gift's LangStat" width="430px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikki2906&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  width="400px"/>
 
 **Expand to view**
 <details>
