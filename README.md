@@ -21,18 +21,18 @@
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
  <div>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikki2906&theme=nightowl" alt="Gift's LangStat" width="430px"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikki2906&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  height="170px" width="400px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nhi2906&theme=nightowl" alt="Gift's LangStat" width="430px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nhi2906&langs_count=10&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Gift's language"  height="170px" width="400px"/>
 
 **Expand to view**
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
- <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nikki2906&show_icons=true&theme=nightowl" />
+ <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nhi2906&show_icons=true&theme=nightowl" />
 </details>
 <details>
   <summary><b>:zap: Main Tech Stack</b></summary>
   <p>
- <img align="left" width="250" src="https://github.com/nikki2906/nikki2906/blob/main/coding.gif"/>
+ <img align="left" width="250" src="https://github.com/nhi2906/nhi2906/blob/main/coding.gif"/>
   <p>
     <br><br>
     &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
