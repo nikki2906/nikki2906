@@ -13,8 +13,6 @@
 &nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating Spring 2026.\
 &nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Cambridge, MA.\
 &nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
-&nbsp;&nbsp;&nbsp;🌱: I am a <b>2024 Disney Software Engineering Intern</b>
-
 
 <!-- GitHub Stats -->
 
