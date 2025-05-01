@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;✏️: &nbsp;Currently studying Computer Science at Harvard.\
 &nbsp;&nbsp;&nbsp;👩‍🎓: &nbsp;Graduating Spring 2026.\
 &nbsp;&nbsp;&nbsp;📌: &nbsp;Located in Cambridge, MA.\
-&nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.\
+&nbsp;&nbsp;&nbsp;🤗: &nbsp;Pronouns: She / Her / Hers.
 
 <!-- GitHub Stats -->
 
